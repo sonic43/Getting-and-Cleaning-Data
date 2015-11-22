@@ -7,10 +7,10 @@
 
 ##Process
 1. Read train and test data, and naming varialbes in the meantime.
-  **Variables of X_train data was named by features.
-  **Variables of y_train data was named by Activity.
-  **Variables of subject_train was named by Subject.
-  **Same for test data.
+  ** Variables of X_train data was named by features.
+  ** Variables of y_train data was named by Activity.
+  ** Variables of subject_train was named by Subject.
+  ** Same for test data.
 2. Merge train and test data.
 3. Extracts only the measurements on the mean and standard deviation for each measurement by using "grep".
 4. Replace activity lables with descriptive names.
